@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Tantan 🦊
 - 🌱 I’m currently learning Shell | Swift | Ruby
 - 💬 Ask me about Everything
-- 📫 How to reach me: xiangyang1992@gmail.com
+- 📫 How to reach me: [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xiangyang1992@gmail.com)](mailto:xiangyang1992@gmail.com) 
 - 😄 Pronouns: Somebody
 - ⚡ Fun fact: Humorous
