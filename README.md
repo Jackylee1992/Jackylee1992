@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 
-- 🔭 I’m currently working on Tantan 🦊
+- 🔭 I’m currently working at Tantan 🦊
 - 🌱 I’m currently learning Shell | Swift | Ruby
 - 💬 Ask me about Everything
 - 📫 How to reach me: [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xiangyang1992@gmail.com)](mailto:xiangyang1992@gmail.com) 
